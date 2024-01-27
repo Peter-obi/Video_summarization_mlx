@@ -12,6 +12,7 @@ Below is the installation process for macOS.
 conda create -n video_summarize_mlx python=3.11
 conda activate video_summarize_mlx
 pip install -r requirements.txt
+python -m spacy download en_core_web_sm
 brew install ffmpeg
 ```
 The default model is Mistral7b-4bit-mlx. If you want to change it, go to summarize_model.py and change this
