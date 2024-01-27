@@ -1,0 +1,15 @@
+huggingface_hub 
+transformers 
+mlx
+mlx-lm
+torch
+torchvision
+torchaudio
+numba
+numpy
+torch
+tqdm
+spacy
+scipy
+more-itertools
+tiktoken==0.3.3
