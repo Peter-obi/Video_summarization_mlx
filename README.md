@@ -6,8 +6,8 @@ Below is the installation process for macOS.
 #### Setting Up the Environment
 
 ```
-conda create -n VoiceAI python=3.11
-conda activate VoiceAI
+conda create -n video_summarize_mlx python=3.11
+conda activate video_summarize_mlx
 pip install -r requirements.txt
 brew install ffmpeg
 ```
