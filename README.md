@@ -8,8 +8,8 @@ Below is the installation process for macOS.
 #### Setting Up the Environment
 
 ```
-conda create -n videomlx python=3.11
-conda activate videomlx
+conda create -n video_summary_mlx python=3.11
+conda activate video_summary_mlx
 pip install -r requirements.txt
 brew install ffmpeg
 python -m spacy download en_core_web_sm
