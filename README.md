@@ -1,4 +1,7 @@
 # Transcribe and summarize youtube video using mlx 
+
+Clone repository and cd into the repository
+
 ### macOS Installation Guide
 
 Below is the installation process for macOS. 
