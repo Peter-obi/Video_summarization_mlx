@@ -29,4 +29,4 @@ Run the whole workflow using
 ```
 python main.py --input_path "/path/to/your/video" --title "My Video Title"
 ```
-Remember the longer the longer the video, the more time it might take to summarize. If you have any suggested changes, submit a pull request and we can adjust as appropriate.
+Remember the longer the video, the more time it might take to summarize. If you have any suggested changes, submit a pull request and we can adjust as appropriate.
